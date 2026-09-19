@@ -1,0 +1,6 @@
+dadang 50
+udin 10
+jamal 45
+didit 25
+otong 29
+jaka 99

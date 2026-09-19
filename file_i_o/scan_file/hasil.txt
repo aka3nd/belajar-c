@@ -1,0 +1,6 @@
+nama: dadang | usia: 50
+nama: udin | usia: 10
+nama: jamal | usia: 45
+nama: didit | usia: 25
+nama: otong | usia: 29
+nama: jaka | usia: 99
