@@ -1,0 +1,2 @@
+Saya sedang belajar bahasa C.
+Saya belajar file I/O.

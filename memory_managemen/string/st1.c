@@ -4,5 +4,6 @@ int main() {
   char name[] = "aing";
   char *ptr = name;
   printf("%s\n", ptr);
+  printf("%c\n",*(ptr + 1));
   return 0;
 }
