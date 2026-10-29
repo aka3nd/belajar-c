@@ -1,6 +1,7 @@
 #include <stddef.h>
 #include <stdio.h>
 #include <stdlib.h>
+
 int main(void) {
   size_t angka = 3;
   int *data = calloc(angka, sizeof(int));
